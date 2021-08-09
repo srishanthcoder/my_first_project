@@ -5,3 +5,9 @@
 .body{
 background-color: rgb(223, 87, 37);
 }
+
+#imageOne{
+    height: 700px;
+    width: 1500px;
+    margin: 20px;
+}
